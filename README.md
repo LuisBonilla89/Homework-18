@@ -31,7 +31,7 @@ The following image is a screenshot of the app.
 
 ## Github:
 
-### https://luisbonilla89.github.io/Homework-18/
+### https://github.com/LuisBonilla89/Homework-18
 
 ## License
 
